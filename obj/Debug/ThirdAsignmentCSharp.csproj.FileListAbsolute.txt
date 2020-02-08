@@ -1,0 +1,6 @@
+C:\Users\balic\source\repos\ThirdAsignmentCSharp\ThirdAsignmentCSharp\bin\Debug\ThirdAsignmentCSharp.exe.config
+C:\Users\balic\source\repos\ThirdAsignmentCSharp\ThirdAsignmentCSharp\bin\Debug\ThirdAsignmentCSharp.exe
+C:\Users\balic\source\repos\ThirdAsignmentCSharp\ThirdAsignmentCSharp\bin\Debug\ThirdAsignmentCSharp.pdb
+C:\Users\balic\source\repos\ThirdAsignmentCSharp\ThirdAsignmentCSharp\obj\Debug\ThirdAsignmentCSharp.csprojAssemblyReference.cache
+C:\Users\balic\source\repos\ThirdAsignmentCSharp\ThirdAsignmentCSharp\obj\Debug\ThirdAsignmentCSharp.exe
+C:\Users\balic\source\repos\ThirdAsignmentCSharp\ThirdAsignmentCSharp\obj\Debug\ThirdAsignmentCSharp.pdb

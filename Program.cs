@@ -1,5 +1,6 @@
 ﻿using System;
 using ThirdAsignmentCSharp.Exercise01;
+using ThirdAsignmentCSharp.Exercise02;
 
 namespace SecondAsignmentCSharp
 {
@@ -20,11 +21,11 @@ namespace SecondAsignmentCSharp
 			switch (Console.ReadLine())
 			{
 				case "1":
-					
+					ExerciseOne.DisplayVectorThree();
 					Continue();
 					return true;
 				case "2":
-					
+					ExerciseTwo.MinMaxInArray();
 					Continue();
 					return true;
 				case "3":
