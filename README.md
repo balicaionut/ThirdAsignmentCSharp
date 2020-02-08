@@ -25,6 +25,6 @@ Exercitii suplimentare (optionale)
      - Exemplu: “Mara este bine”.
 // matricea are atatea linii cate cuvinte sunt in propozitie si atatea coloane cate litere au cuvintele din propozitie
 matrix:
-linia 1: m a r a
-linia 2: e s t e
-linia 3: b i n e
+ linia 1: m a r a
+ linia 2: e s t e
+ linia 3: b i n e
