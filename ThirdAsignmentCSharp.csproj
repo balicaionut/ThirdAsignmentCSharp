@@ -45,6 +45,12 @@
   <ItemGroup>
     <Compile Include="Exercise01\ExerciseOne.cs" />
     <Compile Include="Exercise02\ExerciseTwo.cs" />
+    <Compile Include="Exercise03\ExerciseThree.cs" />
+    <Compile Include="Exercise04\ExerciseFour.cs" />
+    <Compile Include="Exercise05\ExerciseFive.cs" />
+    <Compile Include="Exercise06\ExerciseSix.cs" />
+    <Compile Include="Exercise07\ExerciseSeven.cs" />
+    <Compile Include="Exercise08\ExerciseEight.cs" />
     <Compile Include="Menu.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

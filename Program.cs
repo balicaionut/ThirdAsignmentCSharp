@@ -1,6 +1,11 @@
 ﻿using System;
 using ThirdAsignmentCSharp.Exercise01;
 using ThirdAsignmentCSharp.Exercise02;
+using ThirdAsignmentCSharp.Exercise03;
+using ThirdAsignmentCSharp.Exercise04;
+using ThirdAsignmentCSharp.Exercise05;
+using ThirdAsignmentCSharp.Exercise06;
+using ThirdAsignmentCSharp.Exercise07;
 
 namespace SecondAsignmentCSharp
 {
@@ -29,23 +34,23 @@ namespace SecondAsignmentCSharp
 					Continue();
 					return true;
 				case "3":
-					
+					ExerciseThree.NegativePosition();
 					Continue();
 					return true;
 				case "4":
-					
+					ExerciseFour.StringToArray();
 					Continue();
 					return true;
 				case "5":
-					
+					ExerciseFive.EvenToUpper();
 					Continue();
 					return true;
 				case "6":
-					
+					ExerciseSix.AdditionDoubleToVector();
 					Continue();
 					return true;
 				case "7":
-					
+					ExerciseSeven.SentenceToWordsArray();
 					Continue();
 					return true;
 				case "8":
