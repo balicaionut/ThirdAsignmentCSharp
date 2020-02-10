@@ -8,7 +8,7 @@ using ThirdAsignmentCSharp.Exercise06;
 using ThirdAsignmentCSharp.Exercise07;
 using ThirdAsignmentCSharp.Exercise08;
 
-namespace SecondAsignmentCSharp
+namespace ThirdAsignmentCSharp
 {
 	class Program
 	{
