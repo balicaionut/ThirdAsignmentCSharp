@@ -52,7 +52,7 @@ namespace ThirdAsignmentCSharp.Exercise08
                     Console.WriteLine("The words in the sentence do not have an equal lenght!");
                     Console.WriteLine();
                     Console.WriteLine(" ~ Hint! :)");
-                    Console.WriteLine("Try this example: print chars after frase input");
+                    Console.WriteLine("Try this example: print chars array after input");
                     return;
                 }
             }
