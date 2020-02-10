@@ -6,6 +6,7 @@ using ThirdAsignmentCSharp.Exercise04;
 using ThirdAsignmentCSharp.Exercise05;
 using ThirdAsignmentCSharp.Exercise06;
 using ThirdAsignmentCSharp.Exercise07;
+using ThirdAsignmentCSharp.Exercise08;
 
 namespace SecondAsignmentCSharp
 {
@@ -54,11 +55,10 @@ namespace SecondAsignmentCSharp
 					Continue();
 					return true;
 				case "8":
-					
+					ExerciseEight.EqualCharMatrix();
 					Continue();
 					return true;
 				case "0":
-
 					return false;
 				default:
 					Console.WriteLine(" Error: invalid selection");
